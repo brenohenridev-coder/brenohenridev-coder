@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+    - main
 
 jobs:
   generate:
@@ -13,7 +16,8 @@ jobs:
         with:
           github_user_name: brenohenridev-coder
           outputs: |
-            dist/pacman.svg
+            dist/pacman.svg?color_snake=#f2e641&color_dots=#bfbdbe,#f2a477,#f25e5e,#41c8f2,#735af2
+            
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
