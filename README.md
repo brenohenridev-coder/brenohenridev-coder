@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estou procurando uma oportunidade de estágio como desenvolvedor, principalmente com foco em aprender, evoluir e crescer na área. Sei que ainda tenho muito a aprender, e justamente por isso tenho bastante vontade de colocar a mão na massa, ouvir feedbacks e evoluir todos os dias.<br><br>Gosto de tecnologia, sou curioso e tento sempre entender como as coisas funcionam de verdade, não só “fazer funcionar”. Vejo o estágio como uma chance de aprender na prática, trabalhar em equipe e desenvolver tanto o lado técnico quanto o profissional.<br><br>Meu objetivo é crescer junto com a empresa, ajudar no que for possível e, com o tempo, transformar aprendizado em contribuição real. Estou aberto a desafios, novas experiências e a aprender com pessoas mais experientes da área.<br><br>Se fizer sentido, fico à disposição para conversar!</p>
+<p align="left">Estou procurando uma oportunidade de estágio como desenvolvedor Junior, principalmente com foco em aprender, evoluir e crescer na área. Sei que ainda tenho muito a aprender, e justamente por isso tenho bastante vontade de colocar a mão na massa, ouvir feedbacks e evoluir todos os dias.<br><br>Gosto de tecnologia, sou curioso e tento sempre entender como as coisas funcionam de verdade, não só “fazer funcionar”. Vejo o estágio como uma chance de aprender na prática, trabalhar em equipe e desenvolver tanto o lado técnico quanto o profissional.<br><br>Meu objetivo é crescer junto com a empresa, ajudar no que for possível e, com o tempo, transformar aprendizado em contribuição real. Estou aberto a desafios, novas experiências e a aprender com pessoas mais experientes da área.<br><br>Se fizer sentido, fico à disposição para conversar!</p>
 
 ###
 
